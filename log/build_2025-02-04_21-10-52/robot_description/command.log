@@ -1,0 +1,6 @@
+Invoking command in '/home/cvl/ROS2_mobile_robot/build/robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/cvl/ROS2_mobile_robot/src/robot_description -DCMAKE_INSTALL_PREFIX=/home/cvl/ROS2_mobile_robot/install/robot_description
+Invoked command in '/home/cvl/ROS2_mobile_robot/build/robot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/cvl/ROS2_mobile_robot/src/robot_description -DCMAKE_INSTALL_PREFIX=/home/cvl/ROS2_mobile_robot/install/robot_description
+Invoking command in '/home/cvl/ROS2_mobile_robot/build/robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/cvl/ROS2_mobile_robot/build/robot_description -- -j16 -l16
+Invoked command in '/home/cvl/ROS2_mobile_robot/build/robot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/cvl/ROS2_mobile_robot/build/robot_description -- -j16 -l16
+Invoking command in '/home/cvl/ROS2_mobile_robot/build/robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/cvl/ROS2_mobile_robot/build/robot_description
+Invoked command in '/home/cvl/ROS2_mobile_robot/build/robot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/cvl/ROS2_mobile_robot/build/robot_description
